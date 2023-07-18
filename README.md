@@ -14,6 +14,4 @@
 Now Study
 - Jira
 - C++
-       
-  
-   
+- React
