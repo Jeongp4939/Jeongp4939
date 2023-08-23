@@ -21,4 +21,8 @@ Now Study
   - MUI
     - Material
     - x-Charts
+
+- Bigdata
+    - Numpy
+    - Matplotlib
    
