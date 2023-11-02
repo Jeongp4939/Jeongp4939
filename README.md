@@ -9,21 +9,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongp4939&show_icons=true&theme=radical)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongp4939&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongp12)](https://solved.ac/jeongp12)<br/>
-   
-      
-Now Study
-- Jira
-- C++
-- React
-  - hook
-    - useState
-    - useEffect
-  - MUI
-    - Material
-    - x-Charts
 
-- Bigdata
-    - Numpy
-    - Matplotlib
 
-- Unity(TIL)
+# 프로젝트 정리
+- 2023.10 ~ 진행중 : Unity를 이용한 게임 제작(C#, Client)
+- 2023.08 ~ 2023.10 : 조립컴퓨터 추천 사이트(프론트엔드: React 이용 API연결 및 페이지 제작, 데이터 전처리 : BS4, Selenium 이용)
+- 2023.07 ~ 2023.08 : 임베디드 장비를 활용한 온라인 사용이 가능한 멀티타이머(프론트엔드)
+- 2023.05 ~ 2023.05 : Django를 이용한 영화 추천 사이트
+- 2021.08 ~ 2021.11 : DAGACHI(손글씨 인식 폰트 찾기 프로젝트)
