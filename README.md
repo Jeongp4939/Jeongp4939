@@ -21,3 +21,9 @@
 - 2023.07 ~ 2023.08 : 임베디드 장비를 활용한 온라인 사용이 가능한 멀티타이머(프론트엔드, React 이용)
 - 2023.05 ~ 2023.05 : Django를 이용한 영화 추천 사이트(python)
 - 2021.08 ~ 2021.11 : DAGACHI(손글씨 인식 폰트 찾기 프로젝트, openCV, tensorflow, matplotlib를 이용한 이미지 인식 및 분석 기능)
+
+
+## Now studying
+- React.js 이용 웹 페이지 제작
+- OPic 준비
+- Algorithm
