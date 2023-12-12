@@ -25,6 +25,6 @@
 
 ## Now studying
 - React.js 이용 웹 페이지 제작
-- OPic 준비
-- Algorithm
+- OPic 준비(~12.16)
+- Algorithm(C++)
 - Programmers C++ 입문문제 풀이(2023.12.10~)
