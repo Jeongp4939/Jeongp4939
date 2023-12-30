@@ -5,8 +5,9 @@
 ### 백준 Algorithm(Solved.ac)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongp12)](https://solved.ac/jeongp12)<br/>
 
+---
 
-# 기술스택
+## 기술스택
 <div>
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -14,6 +15,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
+---
 
 # 진행 프로젝트
 - 2023.10 ~ 2023.11 : Unity를 이용한 게임 제작(C#, Client) # 우수상 수상
@@ -22,8 +24,12 @@
 - 2023.05 ~ 2023.05 : Django를 이용한 영화 추천 사이트(python)
 - 2021.08 ~ 2021.11 : DAGACHI(손글씨 인식 폰트 찾기 프로젝트, openCV, tensorflow, matplotlib를 이용한 이미지 인식 및 분석 기능)
 
+---
 
 ## Now studying
 - React.js 이용 웹 페이지 제작
 - Algorithm(C++)
 - Programmers C++ 입문문제 풀이(2023.12.10~)
+
+
+---
