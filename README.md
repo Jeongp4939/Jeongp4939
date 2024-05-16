@@ -25,7 +25,7 @@
 ---
 
 ## Now studying
-- React.js 이용 웹 페이지 제작
+- Next.js 이용 웹 페이지 제작
 ---
 
 ### Github 통계
