@@ -24,14 +24,3 @@
 - 2021.08 ~ 2021.11 : DAGACHI(손글씨 인식 폰트 찾기 프로젝트, openCV, tensorflow, matplotlib를 이용한 이미지 인식 및 분석 기능)
 
 ---
-
-## Now studying
-- Next.js 이용 웹 페이지 제작
----
-
-### Github 통계
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongp4939&show_icons=true&theme=radical)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongp4939&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 백준 Algorithm(Solved.ac)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongp12)](https://solved.ac/jeongp12)<br/>
